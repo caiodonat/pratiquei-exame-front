@@ -1,27 +1,36 @@
-# PratiqueExameFront
+# Pratiquei exame (ADS) - front
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.2.
+<!-- <explicação do projeto> -->
 
-## Development server
+## Tech Stack
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+### Main Techs
 
-## Code scaffolding
+-   Language : `TypeScript` ()
+-   Web Application framework : `` ()
+<!-- -   Database : `MySQL` () -->
+<!-- -   Object-Relational Mapping (ORM) : `Prisma` () -->
+-   Build : `Node` (20.10.0)
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+### Libraries
 
-## Build
+-   Package manager : `NPM` (10.2.3)
+-   Schema validation : `Zod` ()
+<!-- -   API documentation : `tsoa` () | `OpenAPI` () -->
+<!-- -   Technical documentation : `Compodoc` (?) -->
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+### Development Environment
 
-## Running unit tests
+-   OS : `Win` (11) | `WSL 2` (Ubuntu 22.04) | `Dev Container`
+-   IDE : `VS Code` (^1.87.2)
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+---
 
-## Running end-to-end tests
+## A fazer
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+- [ ] Enviar resposta, para verificar se seleção esta correta.
+- [ ] "Fetch API" consumo do Backend.
+- [x] Escolher qual materia desejá 'praticar'.
+- [ ] Aleatorizar _Questões_ e _Alternativas_.
+- [ ] Gerar _Exame_ com um número especifico de _Questões_.
+- [ ] Filtrar _Questões_ do _Exame_ por materia (tópico).

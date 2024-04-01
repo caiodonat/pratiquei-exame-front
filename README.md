@@ -34,3 +34,4 @@
 - [ ] Aleatorizar _Questões_ e _Alternativas_.
 - [ ] Gerar _Exame_ com um número especifico de _Questões_.
 - [ ] Filtrar _Questões_ do _Exame_ por materia (tópico).
+- [ ] temporizador de _Exame_ (Cronometro)
